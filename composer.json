@@ -28,7 +28,7 @@
     "platform": {
       "php": "7.* || 8.*"
     }
-  }
+  },
   "autoload": {
     "psr-4": {
       "Timber\\Integrations\\WooCommerce\\": "lib/"
